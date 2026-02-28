@@ -1,8 +1,8 @@
 {
     "target":  "ta",
-    "version":  "ta-1.11.29",
-    "size":  1023184,
-    "sha256":  "f94847c08e71b3dcf42d8cff40d7277145ab5cb9194dd31be681ca148f97493c",
-    "build_git":  "b9fd0c90",
-    "build_utc":  "2026-02-27T10:58:31Z"
+    "version":  "ta-1.11.32",
+    "size":  1030576,
+    "sha256":  "b5dbec5dba1e0b96f4cc4f30a0a24caed3fa9661990ae6ba7c2d2eb86093d471",
+    "build_git":  "c53fc1c6",
+    "build_utc":  "2026-02-28T12:12:57Z"
 }
